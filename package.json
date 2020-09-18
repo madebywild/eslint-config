@@ -1,0 +1,40 @@
+{
+  "name": "@madebywild/config-eslint",
+  "version": "0.0.1",
+  "description": "wild's ESLint config",
+  "homepage": "https://github.com/madebywild/config-eslint",
+  "author": "WILD <weare@wild.as> (https://wild.as)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madebywild/config-eslint/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madebywild/config-eslint.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "wild",
+    "madebywild",
+    "typescript"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "4.1.1",
+    "@typescript-eslint/parser": "4.1.1",
+    "babel-eslint": "10.1.0",
+    "eslint": "7.9.0",
+    "eslint-config-react-app": "5.2.1",
+    "eslint-plugin-flowtype": "5.2.0",
+    "eslint-plugin-import": "2.22.0",
+    "eslint-plugin-jsx-a11y": "6.3.1",
+    "eslint-plugin-react": "7.20.6",
+    "eslint-plugin-react-hooks": "4.1.2"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "6.11.0",
+    "eslint-plugin-prettier": "3.1.4"
+  }
+}
