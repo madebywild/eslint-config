@@ -9,8 +9,10 @@ npm i @madebywild/config-eslint eslint prettier --save-dev
 Then, edit your projects `package.json`:
 
 ```json
-"eslintConfig": {
-  "extends": "@madebywild/config-eslint"
+{
+  "eslintConfig": {
+    "extends": "@madebywild/config-eslint"
+  }
 }
 ```
 
