@@ -1,5 +1,5 @@
 {
-  "name": "@madebywild/config-eslint",
+  "name": "@madebywild/eslint-config",
   "version": "0.0.1",
   "description": "wild's ESLint config",
   "homepage": "https://github.com/madebywild/config-eslint",
