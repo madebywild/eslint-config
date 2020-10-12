@@ -2,15 +2,15 @@
   "name": "@madebywild/eslint-config",
   "version": "0.0.1",
   "description": "wild's ESLint config",
-  "homepage": "https://github.com/madebywild/config-eslint",
+  "homepage": "https://github.com/madebywild/eslint-config",
   "author": "WILD <weare@wild.as> (https://wild.as)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/madebywild/config-eslint/issues"
+    "url": "https://github.com/madebywild/eslint-config/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/madebywild/config-eslint.git"
+    "url": "git+https://github.com/madebywild/eslint-config.git"
   },
   "keywords": [
     "eslint",
