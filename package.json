@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/madebywild/eslint-config.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "eslint",
     "eslintconfig",
