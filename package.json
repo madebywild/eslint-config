@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/madebywild/eslint-config.git"
   },
+  "scripts": {
+    "release": "np --no-2fa"
+  },
   "publishConfig": {
     "access": "public"
   },
