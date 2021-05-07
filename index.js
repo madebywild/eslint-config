@@ -13,7 +13,11 @@ module.exports = {
         "@typescript-eslint/no-empty-function": "warn",
         "@typescript-eslint/no-unused-vars": [
           "warn",
-          { ignoreRestSiblings: true, args: "none", varsIgnorePattern: "^_" },
+          {
+            ignoreRestSiblings: true,
+            args: "none",
+            varsIgnorePattern: "^_",
+          },
         ],
       },
     },
@@ -30,7 +34,25 @@ module.exports = {
     "jsx-a11y/no-noninteractive-element-interactions": "warn",
     "jsx-a11y/click-events-have-key-events": "warn",
     "jsx-a11y/no-static-element-interactions": "warn",
-    "import/order": "error",
     "import/no-default-export": "warn",
+    "import/order": [
+      "error",
+      {
+        groups: [
+          "builtin",
+          "external",
+          "internal",
+          "parent",
+          "sibling",
+          "index",
+        ],
+        pathGroups: [
+          {
+            pattern: "~/**",
+            group: "internal",
+          },
+        ],
+      },
+    ],
   },
 };
