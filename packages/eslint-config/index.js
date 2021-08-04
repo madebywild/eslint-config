@@ -1,6 +1,5 @@
 module.exports = {
   extends: ["react-app", "@madebywild/eslint-config-typescript"],
-  overrides: [],
   rules: {
     "react/prop-types": "off",
     "react/react-in-jsx-scope": "off",

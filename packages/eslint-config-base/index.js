@@ -1,7 +1,6 @@
 module.exports = {
   extends: ["plugin:prettier/recommended"],
   plugins: ["prettier"],
-  overrides: [],
   rules: {
     "no-var": "error",
     "prefer-const": "error",
