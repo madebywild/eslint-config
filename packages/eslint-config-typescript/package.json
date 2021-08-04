@@ -25,7 +25,9 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "@madebywild/eslint-config-base": "^0.2.3",
+    "@madebywild/eslint-config-base": "^0.2.3"
+  },
+  "peerDependencies": {
     "@typescript-eslint/parser": "^4.22.1"
   }
 }
