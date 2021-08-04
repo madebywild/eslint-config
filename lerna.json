@@ -1,0 +1,17 @@
+{
+  "version": "independent",
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "packages": [ "packages/*" ],
+  "command": {
+    "version": {
+      "ignoreChanges": ["*.md"],
+      "message": "chore(release): [skip ci]"
+    },
+    "publish": {
+      "conventionalCommits": true,
+      "createRelease": "github",
+      "registry": "https://registry.wild.plus/"
+    }
+  }
+}

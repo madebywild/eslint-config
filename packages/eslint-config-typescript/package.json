@@ -1,0 +1,31 @@
+{
+  "name": "@madebywild/eslint-config-typescript",
+  "version": "0.2.3",
+  "description": "wild's ESLint TS project config",
+  "homepage": "https://github.com/madebywild/eslint-config",
+  "author": "WILD <weare@wild.as> (https://wild.as)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madebywild/eslint-config/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madebywild/eslint-config.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "wild",
+    "madebywild",
+    "typescript"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "@madebywild/eslint-config-base": "^0.2.3",
+    "@typescript-eslint/parser": "^4.22.1"
+  }
+}
