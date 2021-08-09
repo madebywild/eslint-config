@@ -1,5 +1,6 @@
 module.exports = {
   extends: ["@madebywild/eslint-config-base"],
+  parser: "@typescript-eslint/parser",
   overrides: [
     {
       files: ["**/*.ts?(x)"],
