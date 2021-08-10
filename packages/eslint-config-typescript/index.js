@@ -12,10 +12,10 @@ module.exports = {
           {
             ignoreRestSiblings: true,
             args: "none",
-            varsIgnorePattern: "^_",
-          },
-        ],
-      },
-    },
-  ],
+            varsIgnorePattern: "^_"
+          }
+        ]
+      }
+    }
+  ]
 };

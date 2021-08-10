@@ -15,15 +15,15 @@ module.exports = {
           "internal",
           "parent",
           "sibling",
-          "index",
+          "index"
         ],
         pathGroups: [
           {
             pattern: "~/**",
-            group: "internal",
-          },
-        ],
-      },
-    ],
-  },
+            group: "internal"
+          }
+        ]
+      }
+    ]
+  }
 };
