@@ -1,5 +1,5 @@
 {
-  "name": "@madebywild/eslint-configs",
+  "name": "@madebywild/eslint",
   "version": "0.1.2",
   "description": "",
   "main": "action.yml",
