@@ -1,6 +1,6 @@
 {
   "name": "@madebywild/eslint-config-base",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "wild's ESLint JS project config",
   "homepage": "https://github.com/madebywild/eslint-config",
   "author": "WILD <weare@wild.as> (https://wild.as)",

@@ -1,6 +1,6 @@
 {
   "name": "@madebywild/eslint-config",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "description": "wild's ESLint React project config",
   "homepage": "https://github.com/madebywild/eslint-config",
   "author": "WILD <weare@wild.as> (https://wild.as)",
@@ -26,7 +26,7 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "@madebywild/eslint-config-typescript": "^0.1.4"
+    "@madebywild/eslint-config-typescript": "^0.1.5"
   },
   "peerDependencies": {
     "@typescript-eslint/parser": "^4.22.1",
