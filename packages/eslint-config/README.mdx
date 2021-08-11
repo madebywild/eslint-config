@@ -12,10 +12,19 @@ import { Code } from 'gatsby-theme-docz/src/components/Code'
 ## Installation
 
 To use it in your project, you need to install the peerDependencies of this package.
-We recommend to use [install-peerdeps](https://www.npmjs.com/package/install-peerdeps):
+We recommend to use [install-peerdeps](https://www.npmjs.com/package/install-peerdeps)
 
+### If you're using npm >=7
+peerDependencies should be installed by default
+
+### If you're using npm >=5
 ```bash
 npx install-peerdeps @madebywild/eslint-config --dev
+```
+
+### If you're using npm <5
+```bash
+npm install -g install-peerdeps && install-peerdeps @madebywild/eslint-config --dev
 ```
 
 Then add this to a `.eslintrc` file:
