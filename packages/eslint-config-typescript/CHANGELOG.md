@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.3](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config-typescript@0.1.2...@madebywild/eslint-config-typescript@0.1.3) (2021-08-11)
+
+
+### Bug Fixes
+
+* removed wrong plugin ([2a96d22](https://github.com/madebywild/eslint-config/commit/2a96d22e33531a980919b4cc9587a5833681fb5b))
+
+
+
+
+
 ## [0.1.2](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config-typescript@0.1.1...@madebywild/eslint-config-typescript@0.1.2) (2021-08-11)
 
 **Note:** Version bump only for package @madebywild/eslint-config-typescript
