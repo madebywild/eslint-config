@@ -4,7 +4,6 @@ module.exports = {
     {
       files: ["**/*.ts?(x)"],
       parser: "@typescript-eslint/parser",
-      plugins: ["typescript-eslint"],
       rules: {
         "@typescript-eslint/no-explicit-any": "warn",
         "@typescript-eslint/no-empty-function": "warn",
