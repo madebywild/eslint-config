@@ -1,6 +1,6 @@
 {
   "name": "@madebywild/eslint-config-typescript",
-  "version": "0.1.0",
+  "version": "0.1.5",
   "description": "wild's ESLint TS project config",
   "homepage": "https://github.com/madebywild/eslint-config",
   "author": "WILD <weare@wild.as> (https://wild.as)",
@@ -25,12 +25,15 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "@madebywild/eslint-config-base": "^0.1.0",
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-prettier": "^3.4.0"
+    "@madebywild/eslint-config-base": "^0.1.5"
   },
   "peerDependencies": {
     "@typescript-eslint/parser": "^4.22.1",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.25.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-flowtype": "^5.7.2",
+    "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-prettier": "^3.4.0"
   }
 }

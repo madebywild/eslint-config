@@ -1,8 +1,8 @@
 {
-  "name": "@madebywild/eslint-configs",
+  "name": "@madebywild/eslint",
   "version": "0.1.2",
   "description": "",
-  "main": "action.yml",
+  "private": true,
   "scripts": {
     "release": "lerna publish --yes"
   },
@@ -13,10 +13,24 @@
     "wild",
     "madebywild"
   ],
-  "workspaces": ["packages/*"],
+  "workspaces": [
+    "packages/*"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.wild.plus/"
+  },
   "author": "WILD <weare@wild.as> (https://wild.as)",
   "license": "MIT",
   "devDependencies": {
-    "lerna": "^4.0.0"
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-flowtype": "^5.9.0",
+    "eslint-plugin-import": "^2.24.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "lerna": "^4.0.0",
+    "semantic-release": "^17.4.4"
   }
 }
