@@ -3,6 +3,111 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.3.0 (2021-08-12)
+
+
+### Features
+
+* split up eslint config ([500f44c](https://github.com/madebywild/eslint-config/commit/500f44c98568e5313801bf806b06eb70940d36b3))
+
+
+### BREAKING CHANGES
+
+* changed repo structure to monorepo
+
+* split up eslint config, added lerna, bumped version to 0.2.3
+
+* removed empty overrides
+
+* eslint-config-typescript, ts only overrides are now rules
+
+* set eslint and plugins to peerDependencies
+
+* updated package versions of new packages
+
+* eslint-config-typescript, moved typescript rules back into overrides
+
+* fix: prettier plugin loading and typescript parsing
+
+* build: removed old index.js
+
+* build: change root pkg name
+
+* build: remove yarn.lock from gitignore
+
+* fix: set plugins
+
+* chore: moved everything to peerDependencies
+
+* ci: add registry info
+
+* fix: added stacked peerDependencies
+
+* style: add eslint
+
+* docs: add base documentation
+
+* docs: github README.md no points to docs.wild.plus docu and small updates
+
+* docs: updated elint-config readme.md
+
+* ci: temporary removed branch restriction for release
+
+* ci: add branch param
+
+* ci: fix branch param syntax
+
+* build: update yarn.lock
+
+* chore(release): [skip ci]
+
+ - @madebywild/eslint-config-base@0.1.1
+ - @madebywild/eslint-config-typescript@0.1.1
+ - @madebywild/eslint-config@0.2.4
+
+* docs: simplified peerdeps installing
+
+* chore(release): [skip ci]
+
+ - @madebywild/eslint-config-base@0.1.2
+ - @madebywild/eslint-config-typescript@0.1.2
+ - @madebywild/eslint-config@0.2.5
+
+* fix: removed wrong plugin
+
+* chore(release): [skip ci]
+
+ - @madebywild/eslint-config-base@0.1.3
+ - @madebywild/eslint-config-typescript@0.1.3
+ - @madebywild/eslint-config@0.2.6
+
+* docs: added peer dependency install instructions for different npm versions
+
+* chore(release): [skip ci]
+
+ - @madebywild/eslint-config-base@0.1.4
+ - @madebywild/eslint-config-typescript@0.1.4
+ - @madebywild/eslint-config@0.2.7
+
+* ci: also ignore mdx changes
+
+* chore(release): [skip ci]
+
+ - @madebywild/eslint-config-base@0.1.5
+ - @madebywild/eslint-config-typescript@0.1.5
+ - @madebywild/eslint-config@0.2.8
+
+* ci: removed private registry
+
+* ci: re-added main branch restriction
+
+Co-authored-by: Lorenzo Migliorero <lorenzomigliorero@gmail.com>
+Co-authored-by: GitHub <wild-bot@github.com>
+
+
+
+
+
 ## [0.2.8](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config@0.2.7...@madebywild/eslint-config@0.2.8) (2021-08-11)
 
 **Note:** Version bump only for package @madebywild/eslint-config
