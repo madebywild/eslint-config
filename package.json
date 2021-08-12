@@ -4,7 +4,7 @@
   "description": "",
   "private": true,
   "scripts": {
-    "release": "lerna publish --yes"
+    "release": "lerna publish --yes --no-verify-access"
   },
   "keywords": [
     "eslint",
