@@ -1,40 +1,15 @@
 ---
 name: Eslint Config
 menu: Code Linting
-route: /eslint-config
+route: /eslint-config/getting-started
 ---
 
-import index from '!!raw-loader!.'
-import { Code } from 'gatsby-theme-docz/src/components/Code'
+import { Link } from 'docz'
 
-# Eslint Config
+# Eslint config
 
-## Installation
+These packages provide the recommended WILD's Eslint configurations for JS, TS and React based projects.
 
-```bash
-npm i @madebywild/eslint-config eslint prettier --save-dev
-```
-
-Then, edit your projects `package.json`:
-
-```json
-{
-  "eslintConfig": {
-    "extends": "@madebywild/eslint-config"
-  }
-}
-```
-
-## How to bump version
-
-Install `np` from https://github.com/sindresorhus/np
-
-```bash
-npm run release
-```
-
-## Rules
-
-<Code className="javascript">
-  {index}
-</Code>
+- <Link to="/eslint-config/base">Base config</Link>
+- <Link to="/eslint-config/typescript">Typescript config</Link>
+- <Link to="/eslint-config/react">React config</Link>
