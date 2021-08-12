@@ -1,44 +1,36 @@
 {
-  "name": "@madebywild/eslint-config",
-  "version": "0.2.2",
-  "description": "wild's ESLint config",
-  "homepage": "https://github.com/madebywild/eslint-config",
-  "author": "WILD <weare@wild.as> (https://wild.as)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/madebywild/eslint-config/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/madebywild/eslint-config.git"
-  },
+  "name": "@madebywild/eslint",
+  "version": "0.1.2",
+  "description": "",
+  "private": true,
   "scripts": {
-    "release": "np --no-2fa"
-  },
-  "publishConfig": {
-    "access": "public"
+    "release": "lerna publish --yes"
   },
   "keywords": [
     "eslint",
     "eslintconfig",
     "config",
     "wild",
-    "madebywild",
-    "typescript"
+    "madebywild"
   ],
-  "main": "index.js",
-  "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.22.1",
-    "@typescript-eslint/parser": "^4.22.1",
+  "workspaces": [
+    "packages/*"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.wild.plus/"
+  },
+  "author": "WILD <weare@wild.as> (https://wild.as)",
+  "license": "MIT",
+  "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.25.0",
+    "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
-    "eslint-config-react-app": "^6.0.0",
-    "eslint-plugin-flowtype": "^5.7.2",
-    "eslint-plugin-import": "^2.22.1",
-    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-flowtype": "^5.9.0",
+    "eslint-plugin-import": "^2.24.0",
     "eslint-plugin-prettier": "^3.4.0",
-    "eslint-plugin-react": "^7.23.2",
-    "eslint-plugin-react-hooks": "^4.2.0"
+    "lerna": "^4.0.0",
+    "semantic-release": "^17.4.4"
   }
 }
