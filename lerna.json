@@ -10,8 +10,7 @@
     },
     "publish": {
       "conventionalCommits": true,
-      "createRelease": "github",
-      "registry": "https://registry.wild.plus/"
+      "createRelease": "github"
     }
   }
 }
