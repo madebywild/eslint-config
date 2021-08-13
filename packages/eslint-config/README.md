@@ -1,4 +1,4 @@
 # Eslint config - React
 
-docs are available at [docs.wild.plus/eslint-config/react](https://docs.wild.plus/eslint-config/react)
+Docs are available at [docs.wild.plus/code-linting/eslint-config](https://docs.wild.plus/code-linting/eslint-config)
 ```

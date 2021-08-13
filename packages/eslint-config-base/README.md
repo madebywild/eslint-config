@@ -1,3 +1,3 @@
 # Eslint config - Base
 
-docs are available at [docs.wild.plus/eslint-config/base](https://docs.wild.plus/eslint-config/base)
+Docs are available at [docs.wild.plus/code-linting/eslint-config-base](https://docs.wild.plus/code-linting/eslint-config-base)
