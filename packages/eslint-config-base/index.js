@@ -1,6 +1,9 @@
 module.exports = {
   extends: ["plugin:prettier/recommended"],
   plugins: ["prettier", "import", "flowtype"],
+  parserOptions: {
+    ecmaVersion: 6,
+  },
   rules: {
     "no-var": "error",
     "prefer-const": "error",
