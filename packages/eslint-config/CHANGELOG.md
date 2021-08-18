@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config@0.3.0...@madebywild/eslint-config@0.4.0) (2021-08-18)
+
+
+### Features
+
+* **base:** set ecma version to 6 ([5fd5dfe](https://github.com/madebywild/eslint-config/commit/5fd5dfe0c13aa449fb3312674e908828db5c7395))
+
+
+
+
+
 # 0.3.0 (2021-08-12)
 
 
