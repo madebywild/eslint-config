@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config@0.4.3...@madebywild/eslint-config@0.5.0) (2021-11-02)
+
+
+### Features
+
+* add warning for "react/no-unknown-property" ([#5](https://github.com/madebywild/eslint-config/issues/5)) ([d67e15e](https://github.com/madebywild/eslint-config/commit/d67e15ec4ed9ba118d0008246b8e0b0efed22ad6))
+
+
+
+
+
 ## [0.4.3](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config@0.4.2...@madebywild/eslint-config@0.4.3) (2021-09-27)
 
 

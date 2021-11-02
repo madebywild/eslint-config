@@ -1,6 +1,6 @@
 {
   "name": "@madebywild/eslint-config",
-  "version": "0.4.3",
+  "version": "0.5.0",
   "description": "wild's ESLint React project config",
   "homepage": "https://github.com/madebywild/eslint-config",
   "author": "WILD <weare@wild.as> (https://wild.as)",
