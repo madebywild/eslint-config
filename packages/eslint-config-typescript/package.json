@@ -1,6 +1,6 @@
 {
   "name": "@madebywild/eslint-config-typescript",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "wild's ESLint TS project config",
   "homepage": "https://github.com/madebywild/eslint-config",
   "author": "WILD <weare@wild.as> (https://wild.as)",
@@ -25,7 +25,7 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "@madebywild/eslint-config-base": "^0.3.1"
+    "@madebywild/eslint-config-base": "^0.4.0"
   },
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.31.2",

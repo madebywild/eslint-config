@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config-base@0.3.1...@madebywild/eslint-config-base@0.4.0) (2022-03-08)
+
+
+### Features
+
+* add env config to base config ([2d8f9bd](https://github.com/madebywild/eslint-config/commit/2d8f9bd2114a00654c3d92a353e887ce0bc464d3))
+
+
+
+
+
 ## [0.3.1](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config-base@0.3.0...@madebywild/eslint-config-base@0.3.1) (2021-08-18)
 
 
