@@ -1,8 +1,14 @@
 module.exports = {
   extends: ["plugin:prettier/recommended"],
   plugins: ["prettier", "import", "flowtype"],
+  env: {
+    browser: true,
+    commonjs: true,
+    es6: true,
+    jest: true,
+    node: true,
+  },
   parserOptions: {
-    ecmaVersion: 2018,
     sourceType: "module",
   },
   rules: {
