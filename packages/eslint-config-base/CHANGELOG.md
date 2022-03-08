@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.1](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config-base@0.4.0...@madebywild/eslint-config-base@0.4.1) (2022-03-08)
+
+
+### Bug Fixes
+
+* enable es6 syntax ([e1cd32b](https://github.com/madebywild/eslint-config/commit/e1cd32b80ef5145e058d3ce875464f77d5e923e2))
+
+
+
+
+
 # [0.4.0](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config-base@0.3.1...@madebywild/eslint-config-base@0.4.0) (2022-03-08)
 
 
