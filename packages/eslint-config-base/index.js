@@ -1,6 +1,6 @@
 module.exports = {
   extends: ["plugin:prettier/recommended"],
-  plugins: ["prettier", "import", "flowtype"],
+  plugins: ["prettier", "import"],
   env: {
     browser: true,
     commonjs: true,
