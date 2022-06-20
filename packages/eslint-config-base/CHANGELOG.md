@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config-base@0.4.1...@madebywild/eslint-config-base@0.5.0) (2022-04-20)
+
+
+### Features
+
+* remove flowtype dep ([edec625](https://github.com/madebywild/eslint-config/commit/edec625070fe98d2dfa919c043b0c4ef3b6460df))
+
+
+
+
+
 ## [0.4.1](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config-base@0.4.0...@madebywild/eslint-config-base@0.4.1) (2022-03-08)
 
 
