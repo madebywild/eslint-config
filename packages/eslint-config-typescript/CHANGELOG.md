@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config-typescript@0.3.6...@madebywild/eslint-config-typescript@0.4.0) (2022-06-20)
+
+
+### Features
+
+* upgrade ts parser deps ([e259333](https://github.com/madebywild/eslint-config/commit/e2593333e48517bb7c2307ebc397b27c490ac9da))
+
+
+
+
+
 ## [0.3.6](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config-typescript@0.3.5...@madebywild/eslint-config-typescript@0.3.6) (2022-04-20)
 
 **Note:** Version bump only for package @madebywild/eslint-config-typescript
