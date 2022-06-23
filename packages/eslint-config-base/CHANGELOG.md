@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.6.0](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config-base@0.5.1...@madebywild/eslint-config-base@0.6.0) (2022-06-23)
+
+
+### Features
+
+* add no-undef rule ([9152913](https://github.com/madebywild/eslint-config/commit/9152913578d6e03b2ee0b167cdbb6c29fc0d073b))
+
+
+
+
+
 ## [0.5.1](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config-base@0.5.0...@madebywild/eslint-config-base@0.5.1) (2022-06-20)
 
 **Note:** Version bump only for package @madebywild/eslint-config-base
