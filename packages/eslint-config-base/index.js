@@ -13,6 +13,7 @@ module.exports = {
     ecmaVersion: 2020,
   },
   rules: {
+    "no-undef": "error",
     "no-var": "error",
     "prefer-const": "error",
     "no-console": ["warn", { allow: ["warn", "error"] }],
