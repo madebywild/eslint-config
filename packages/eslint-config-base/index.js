@@ -1,4 +1,5 @@
 module.exports = {
+  parser: "@babel/eslint-parser",
   extends: ["plugin:prettier/recommended"],
   plugins: ["prettier", "import"],
   env: {
@@ -9,6 +10,7 @@ module.exports = {
     node: true,
   },
   parserOptions: {
+    requireConfigFile: false,
     sourceType: "module",
     ecmaVersion: 2020,
   },
