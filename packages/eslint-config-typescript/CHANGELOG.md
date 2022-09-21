@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config-typescript@0.4.2...@madebywild/eslint-config-typescript@0.5.0) (2022-09-21)
+
+
+### Features
+
+* disable no-undef rule for ts file ([d6a5a1a](https://github.com/madebywild/eslint-config/commit/d6a5a1aa8b4e3e3abc3ef81750d4b7fb11e7928c))
+
+
+
+
+
 ## [0.4.2](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config-typescript@0.4.1...@madebywild/eslint-config-typescript@0.4.2) (2022-09-20)
 
 **Note:** Version bump only for package @madebywild/eslint-config-typescript
