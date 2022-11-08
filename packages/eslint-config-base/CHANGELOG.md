@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.7.0](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config-base@0.6.2...@madebywild/eslint-config-base@0.7.0) (2022-11-08)
+
+
+### Features
+
+* add support for internal root imports ([fb79e32](https://github.com/madebywild/eslint-config/commit/fb79e320a158bc95254706e70dd6c940920c2819))
+
+
+
+
+
 ## [0.6.2](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config-base@0.6.1...@madebywild/eslint-config-base@0.6.2) (2022-09-21)
 
 **Note:** Version bump only for package @madebywild/eslint-config-base
