@@ -36,6 +36,11 @@ module.exports = {
             pattern: "~/**",
             group: "internal",
           },
+          {
+            pattern: "/**",
+            group: "internal",
+            position: "before",
+          },
         ],
       },
     ],
