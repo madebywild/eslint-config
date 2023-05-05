@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.6.0](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config-typescript@0.5.3...@madebywild/eslint-config-typescript@0.6.0) (2023-05-05)
+
+
+### Features
+
+* add typed import rule ([f76a3fb](https://github.com/madebywild/eslint-config/commit/f76a3fbfe28fdcd9a616d33385cb744778f30a93))
+
+
+
+
+
 ## [0.5.3](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config-typescript@0.5.2...@madebywild/eslint-config-typescript@0.5.3) (2023-05-05)
 
 **Note:** Version bump only for package @madebywild/eslint-config-typescript

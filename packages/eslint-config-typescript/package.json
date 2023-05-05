@@ -1,6 +1,6 @@
 {
   "name": "@madebywild/eslint-config-typescript",
-  "version": "0.5.3",
+  "version": "0.6.0",
   "description": "wild's ESLint TS project config",
   "homepage": "https://github.com/madebywild/eslint-config",
   "author": "WILD <weare@wild.as> (https://wild.as)",
