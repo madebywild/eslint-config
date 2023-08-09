@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.14](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config@0.5.13...@madebywild/eslint-config@0.5.14) (2023-08-09)
+
+**Note:** Version bump only for package @madebywild/eslint-config
+
+
+
+
+
 ## [0.5.13](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config@0.5.12...@madebywild/eslint-config@0.5.13) (2023-05-05)
 
 **Note:** Version bump only for package @madebywild/eslint-config
