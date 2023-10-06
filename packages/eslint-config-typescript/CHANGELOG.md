@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.6.2](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config-typescript@0.6.1...@madebywild/eslint-config-typescript@0.6.2) (2023-10-06)
+
+**Note:** Version bump only for package @madebywild/eslint-config-typescript
+
+
+
+
+
 ## [0.6.1](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config-typescript@0.6.0...@madebywild/eslint-config-typescript@0.6.1) (2023-08-09)
 
 **Note:** Version bump only for package @madebywild/eslint-config-typescript

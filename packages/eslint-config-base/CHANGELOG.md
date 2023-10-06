@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.8.0](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config-base@0.7.1...@madebywild/eslint-config-base@0.8.0) (2023-10-06)
+
+
+### Features
+
+* allow explicit info logs ([a45d96d](https://github.com/madebywild/eslint-config/commit/a45d96d4b1142355cafc5a15aa9a8f35008fa7ce))
+
+
+
+
+
 ## [0.7.1](https://github.com/madebywild/eslint-config/compare/@madebywild/eslint-config-base@0.7.0...@madebywild/eslint-config-base@0.7.1) (2023-08-09)
 
 **Note:** Version bump only for package @madebywild/eslint-config-base
