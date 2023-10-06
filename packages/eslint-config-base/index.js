@@ -18,7 +18,7 @@ module.exports = {
     "no-undef": "error",
     "no-var": "error",
     "prefer-const": "error",
-    "no-console": ["warn", { allow: ["warn", "error"] }],
+    "no-console": ["warn", { allow: ["warn", "error", "info"] }],
     "import/no-default-export": "warn",
     "import/order": [
       "error",
